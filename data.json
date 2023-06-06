@@ -1,0 +1,31 @@
+{
+  "name": "The Social Hub",
+  "avatar": "https://cdn.pixabay.com/photo/2018/04/27/03/51/technology-3353701_640.jpg",
+  "links": [
+    {
+      "title": "SocialBook",
+      "href": "https://facebook.com/",
+      "image": "https://cdn.pixabay.com/photo/2018/04/27/03/51/technology-3353701_640.jpg"
+    },
+    {
+      "title": "Socialgram",
+      "href": "https://instagram.com/",
+      "image": "https://cdn.pixabay.com/photo/2018/04/27/03/51/technology-3353701_640.jpg"
+    },
+    {
+      "title": "SocialTube",
+      "href": "https://youtube.com/",
+      "image": "https://cdn.pixabay.com/photo/2018/04/27/03/51/technology-3353701_640.jpg"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/"
+    }
+  ]
+}
